@@ -20,6 +20,8 @@ f2 = func2()
 
 for i in range(5):
     print f1
+
+
 for i in range(5):
     print next(f2)
 
