@@ -1,3 +1,6 @@
+#Given a string, return a string where for every char in the original, there are two chars. Eg. double_char(The) = TThhee
+
+
 from __future__ import print_function    #importing print() from python 3
 
 print("*******Doubling each characters in string*******")
