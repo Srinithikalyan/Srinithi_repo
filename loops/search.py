@@ -1,3 +1,5 @@
+#A code for searching substring, reversing a string and printing a characters from string
+
 print "****Searching for substring*******"
 string = str(raw_input("\n Enter the string "))
 sub = str(raw_input("\n Enter the substring to be searched "))

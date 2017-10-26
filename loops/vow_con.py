@@ -1,3 +1,5 @@
+#A program to print vowels and consonant letters from a user's input
+
 print "***********Vowels and consonants**********"
 
 
