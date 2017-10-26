@@ -1,15 +1,15 @@
-#A program to print vowels and consonant letters from a user's input
+# A program to print vowels and consonant letters from a user's input
 
 print "***********Vowels and consonants**********"
 
 
-str = str(raw_input("\n Enter the string to find vowels and consonants "))
+string = str(raw_input("\n Enter the string to find vowels and consonants "))
 vow = "aeiou"
 
 
-for iter in str:
-    if iter in vow:
-        print "\n\"%s\" is Vowel in the word \"%s\"\n " % (iter,str)
+for itr in string:
+    if itr in vow:
+        print "\n\"%s\" is Vowel in the word \"%s\"\n " % (itr,string)
     else:
-        print "\n\"%s\" is Consonant in the word \"%s\"\n " % (iter,str)
+        print "\n\"%s\" is Consonant in the word \"%s\"\n " % (itr,string)
 
