@@ -1,3 +1,7 @@
+#An example program for Yield concept
+#Difference between yield and return statements
+
+
 print "Yield and Return statements"
 def func1():
     a = 0
