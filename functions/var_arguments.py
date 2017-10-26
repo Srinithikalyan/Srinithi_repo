@@ -1,3 +1,7 @@
+#An Example code for understanding *args and **kwargs
+#Printing of multiplication table and addition of two numbers
+
+
 print "*******Variable arguments *args and **kwargs *******"
 
 
