@@ -1,3 +1,5 @@
+#A program to break the loop if user give n as input, if y continue
+
 print "*******break and continue******"
 
 while True:
